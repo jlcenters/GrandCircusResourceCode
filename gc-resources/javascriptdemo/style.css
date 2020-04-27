@@ -1,0 +1,7 @@
+.die {
+	border: 2px solid black;
+	border-radius: 5px;
+	text-align: center;
+	padding: 4px 10px;
+	box-shadow: 2px 2px 2px silver;
+}
